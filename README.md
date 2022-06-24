@@ -1,1 +1,1 @@
-Calculadora dinamica hecha en HTML, CSS y Javascript
+Proyectos hechos en Javascript.
